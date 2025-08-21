@@ -18,7 +18,7 @@ A curated collection of useful OpenStreetMap-based maps, collected for quick acc
 
 - [Travel](#travel)
 
-### Tools
+### Travel
 
 - [Dolomites - Points d'intérêts](https://umap.openstreetmap.fr/en/map/dolomites-points-dinterets_1264136): Points of interest in the Dolomites
 
